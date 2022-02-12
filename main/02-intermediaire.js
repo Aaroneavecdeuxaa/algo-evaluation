@@ -16,7 +16,7 @@ function combine(tableau1, tableau2) {
 
 }
 let tableau1 = [1, 2, 3];
-let tableau2 = ['orange', 'pomme','poires'];
+let tableau2 = ['oranges', 'pomme','poires'];
 console.log(combine(tableau1, tableau2));
 
 
@@ -37,7 +37,7 @@ let Table = [];
 let k = 1;
 Table[0] = nbre;
 while (k < 10) {
-    if (nbre % 2 === 0){
+    if (nobre % 2 === 0){
         nbre/= 2;
     } else{
         nbre = nbre * 3 + 1;
