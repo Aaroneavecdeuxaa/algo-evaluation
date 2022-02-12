@@ -29,7 +29,7 @@ let nombre = 0;
 while (nombre < nombres.length) {
 if (nombres[nombre] % 2 === 0){
     TableauPaire[Tab] = nombres[nombre];
-    Tab+++;
+    Tab++;
 
 }
 nombre+++
