@@ -48,4 +48,4 @@ while (k < 10) {
 return Table;
 }
 let syracuseNbre = 14;
-console.log(syracuse(syracuseNbre))
+console.log(syracuse(syracuseNbre));
