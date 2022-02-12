@@ -15,7 +15,7 @@ function combine(tableau1, tableau2) {
     return Table;
 
 }
-let tableau1 =
+let tableau1 = [1, 2, 3];
 let tableau2 = ['orange', 'pomme','poires'];
 console.log(combine(tableau1, tableau2));
 
