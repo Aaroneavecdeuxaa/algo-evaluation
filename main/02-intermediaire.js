@@ -8,7 +8,7 @@ function combine(tableau1, tableau2) {
     let k = 0;
     if (tableau.length !== tableau2.length) return
     while (k < tableau1.length){
-        Table[k * 2] = tableau1[k];
+        Tale[k * 2] = tableau1[k];
         Table[k * 2 + 1] = tableau2[k];
         k++;
     }
@@ -48,4 +48,4 @@ while (k < 10) {
 return Table;
 }
 let syracuseNbre = 14;
-console.log(syracuse(syracuseNbre));
+console.log(syracuse(syracuseNbre);
